@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+}
+button {
+  color: #000;
+}
+.app {
+  background-color: #17213f;
+  min-height: 100vh;
+  padding: 5rem 0;
+}
